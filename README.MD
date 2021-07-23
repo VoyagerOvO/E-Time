@@ -1,6 +1,8 @@
 # 时间Time
-一款好看且免费的报时插件。
+
 ![演示图](https://github.com/raindropxiayuan/-Time/blob/main/image.jpg)
+
+一款好看且免费的报时插件。
 ## Why 时间Time? - 特性
 * 精美且轻盈，无需任何操作；
 * 日夜两种配色，对眼睛更友好；
@@ -23,12 +25,11 @@
 
 打开“小栗子框架”，并点击“应用中心”；
 
-点击“导入插件”，选择编译的dll文件，然后启用即可。
+点击“导入插件”，选择编译的dll文件，然后启用即可；
 
-......
+......（登录账号等环节）；
 
 在群聊内发送“时间”时，将会画出一张现行时间图（根据电脑时间）。
-![演示图2](https://github.com/raindropxiayuan/-Time/blob/main/image.jpg)
 ## License - 版权说明
 该项目签署了Apache License Version 2.0授权许可，详情请参阅LICENSE
 ## Authors - 作者
