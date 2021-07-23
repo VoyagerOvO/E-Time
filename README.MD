@@ -3,7 +3,7 @@
 ![演示图](https://github.com/raindropxiayuan/-Time/blob/main/image.jpg)
 
 一款好看且免费的报时插件。
-## Why 时间Time? - 特性
+## Why Time? - 特性
 * 精美且轻盈，无需任何操作；
 * 日夜两种配色，对眼睛更友好；
 * 内置24句提示语，不单调。
