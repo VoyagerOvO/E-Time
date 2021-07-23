@@ -15,7 +15,15 @@
 * 模块：cornsdk Ver2.7.3
 以上为推荐版本，其他版本暂未测试。
 ## Download - 下载源文件
-修改分支，具体参考下面分支说明。
+切换分支（下图教程），具体参考下面分支说明。
+
+第一步：
+
+![演示1](https://github.com/raindropxiayuan/-Time/blob/main/one.png)
+
+第二步：
+
+![演示1](https://github.com/raindropxiayuan/-Time/blob/main/two.png)
 ## Branch - 分支
 * small-minded 小栗子框架
 ## License - 版权说明
