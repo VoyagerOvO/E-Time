@@ -1,6 +1,6 @@
 # 时间Time
 一款好看且免费的报时插件。
-# Why 时间Time? - 特性
+## Why 时间Time? - 特性
 * 精美且轻盈，无需任何操作；
 * 日夜两种配色，对眼睛更友好；
 * 内置24句提示语，不单调。
@@ -21,10 +21,10 @@
 ......
 在群内发送“时间”时，将会画出一张现行时间图（根据电脑时间）。
 ![演示图](./image.jpg)
-# License - 版权说明
+## License - 版权说明
 该项目签署了Apache License Version 2.0授权许可，详情请参阅LICENSE
-# Authors - 作者
+## Authors - 作者
 作者：夏源
-# Acknowledgments - 鸣谢
+## Acknowledgments - 鸣谢
 README.ME参考知乎蓝天云课的解答与GithubPurpleBooth的项目a-good-readme-template。
 感谢For our团队成员的帮助。
