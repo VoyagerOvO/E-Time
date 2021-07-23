@@ -1,5 +1,6 @@
 # 时间Time
 一款好看且免费的报时插件。
+![演示图](https://github.com/raindropxiayuan/-Time/blob/main/image.jpg)
 ## Why 时间Time? - 特性
 * 精美且轻盈，无需任何操作；
 * 日夜两种配色，对眼睛更友好；
@@ -26,8 +27,8 @@
 
 ......
 
-在群内发送“时间”时，将会画出一张现行时间图（根据电脑时间）。
-![演示图](./image.jpg)
+在群聊内发送“时间”时，将会画出一张现行时间图（根据电脑时间）。
+![演示图2](https://github.com/raindropxiayuan/-Time/blob/main/image.jpg)
 ## License - 版权说明
 该项目签署了Apache License Version 2.0授权许可，详情请参阅LICENSE
 ## Authors - 作者
